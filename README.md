@@ -22,4 +22,4 @@ After the whole product chain and technologies are well-developed, it can be an 
 4. With more funding and resouces, I can start with project proposal, and probably turn one of the most challenging section in this project into my master's thesis.
 
 #### Fields Involved
-Mechanical System Design, Actuation & Sensing, Communivation & Networking, Human-factor engineering designed for human-robot interaction
+Mechanical System Design, Actuation & Sensing, Mechatronics, Communication & Networking, Human-factor engineering designed for human-robot interaction
