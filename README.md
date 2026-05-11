@@ -1,0 +1,3 @@
+# Space Debris Collection System
+## About the project
+space debris collection system using electromagnetic gripper device tied by a metallic thread to a medium-size spacecraft that can store 10000 gripper devices. The medium-size spacecraft can be charged by the space station, or a big solar panel folded by origami method will be unfolded to generate power to the spacecraft which provide power to the gripper device. the gripper device has magnets to attracts the metal debris in the space. after collecting these debris to at least 100 tonnes, it is then thrown to nearby asteroids using the method of centrepetal force.
